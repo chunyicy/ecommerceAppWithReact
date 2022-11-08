@@ -1,3 +1,14 @@
+
+I've created an ecommerce app using Reactjs. This app can sort the items according to their prices and ratings. It recommend and suggests to users the items that might interest them. Learning from frontend simplified.
+
+
+
+
+https://user-images.githubusercontent.com/116086176/200472617-921b409e-1637-4f97-aa2e-5d2dd165be47.mp4
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
